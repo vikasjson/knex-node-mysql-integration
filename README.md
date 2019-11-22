@@ -1,2 +1,2 @@
-# knex-node-mysql-connection
+# knex-node-mysql-integration
 Mysql Integration with nodejs using Knex
