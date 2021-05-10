@@ -16,7 +16,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "fs": "0.0.1-security",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "morgan": "^1.9.1",
     "mysql2": "^1.7.0",
     "path": "^0.12.7",
